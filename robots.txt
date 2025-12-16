@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard.html
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://www.galacticfitness.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
